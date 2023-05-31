@@ -6,6 +6,7 @@ import theme from "./styles/theme";
 import ScrollToTop from "./ScrollToTop";
 import LoadingSpinner from "./components/loading/LoadingSpinner";
 import RouterConfig from "./RouterConfig";
+import "bootstrap/dist/css/bootstrap.css";
 
 const App = () => {
   return (
